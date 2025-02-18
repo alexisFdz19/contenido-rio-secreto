@@ -52,7 +52,7 @@
 
                 <li data-filter=".ap1"><a class="botonFiltroPL dropdown-item" href="">Plus</a></li>
 
-                <li data-filter=".ap2"><a class="botonFiltroWL dropdown-item" href="">Wild</a></li>
+                <!--<li data-filter=".ap2"><a class="botonFiltroWL dropdown-item" href="">Wild</a></li>-->
 
                 <li data-filter=".ap3"><a class="botonFiltroTU dropdown-item" href="">RS Tulum</a></li>
 
@@ -98,7 +98,7 @@
 
             <li data-filter=".ap1" class="botonFiltro"><a class="botonFiltroPL" href="">Plus</a></li>
 
-            <li data-filter=".ap2" class="botonFiltro"><a class="botonFiltroWL" href="">Wild</a></li>
+            <!--<li data-filter=".ap2" class="botonFiltro"><a class="botonFiltroWL" href="">Wild</a></li>-->
 
             <li data-filter=".ap3" class="botonFiltro"><a class="botonFiltroTU" href="">RS Tulum</a></li>
 
@@ -581,7 +581,7 @@
             =            Wild          =
         =============================================-->
 
-        <div class="col-6 col-lg-3 col-md-4 col-sm-6 ap2 oculto">
+        <!--<div class="col-6 col-lg-3 col-md-4 col-sm-6 ap2 oculto">
             <div class="h_gallery_item">
             <img loading="lazy" src="<?php echo $url?>views/img/contenido/Materiales/mockups/mockup-logo-rio-secreto-wild.jpg" alt="">
             <div class="hover">
@@ -747,7 +747,7 @@
                 <a class="light" href="<?php echo $url?>views/img/contenido/RS Wild/Fotos/Wild-12.jpg"><i class="fas fa-expand"></i></a>
             </div>
             </div>
-        </div>
+        </div>-->
 
         <!--<div class="col-6 col-lg-3 col-md-4 col-sm-6 ap2 oculto">
             <div class="h_gallery_item">
@@ -759,7 +759,7 @@
             </div>
         </div>-->
 
-        <div class="col-6 col-lg-3 col-md-4 col-sm-6 ap2 oculto">
+        <!--<div class="col-6 col-lg-3 col-md-4 col-sm-6 ap2 oculto">
             <div class="h_gallery_item">
             <img loading="lazy" src="<?php echo $url?>views/img/contenido/RS Wild/Fotos/Wild-14.jpg" alt="">
             <div class="hover">
@@ -783,7 +783,7 @@
             <div class="h_gallery_item">              
             <div class="youtube-player" data-id="7nbVpvxZVhA"></div>
             </div>
-        </div>
+        </div>-->
 
         <!--=============================================
             =            Tulum          =
