@@ -93,6 +93,42 @@
 						<div class="offer-holder">
 
 
+							<!-- BOVINOS -->
+
+							<div class="col mar-bottom-xs restaurantes">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/bovinos.jpg"
+											alt="logo" class="img-responsive"></div>
+									<span class="offer">10% Off</span>
+								</div>
+								<strong class="heading6">
+									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en consumo.<br class="hidden-xs">
+								</strong>
+								<span class="sub-title">Av. 10 con calle 12, Playa del Carmen.</span>
+								<div class="text-center">
+									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
+									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2026.</time>
+								</div>
+							</div>
+
+							<!-- AH CACAO -->
+
+							<div class="col mar-bottom-xs restaurantes">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/ahcacao.jpg"
+											alt="logo" class="img-responsive"></div>
+									<span class="offer">10% Off</span>
+								</div>
+								<strong class="heading6">
+									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en bebidas, postres y repostería preparados al momento.<br class="hidden-xs">
+								</strong>
+								<span class="sub-title"> Sucursales de Playa del Carmen, Q.Roo.</span>
+								<div class="text-center">
+									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
+									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2026.</time>
+								</div>
+							</div>
+
 							<!-- BOSTONS PIZZA -->
 
 							<!-- col of the page -->
@@ -107,7 +143,7 @@
 								<span class="sub-title">Av. Constituyentes esquina con Av. 115</span>
 								<div class="text-center">
 							<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
-								<time class="time" datetime="2017-02-03 20:00">Válido hasta enero de 2025.</time>
+								<time class="time" datetime="2017-02-03 20:00">Válido hasta Febrero de 2025.</time>
 								</div>
 							</div>
 
@@ -149,24 +185,6 @@
 								</div>
 							</div>
 
-							<!-- AH CACAO -->
-
-							<div class="col mar-bottom-xs restaurantes">
-								<div class="header">
-									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/ahcacao.jpg"
-											alt="logo" class="img-responsive"></div>
-									<span class="offer">10% Off</span>
-								</div>
-								<strong class="heading6">
-									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en bebidas y postres preparados al momento y repostería.<br class="hidden-xs">
-								</strong>
-								<span class="sub-title"> Sucursales de Playa del Carmen, Q.Roo.</span>
-								<div class="text-center">
-									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
-									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2025.</time>
-								</div>
-							</div>
-
 							<!-- COLEGIO INGLÉS -->
 
 							<!-- col of the page -->
@@ -187,7 +205,7 @@
 							</div>
 
 							<!-- col of the page -->
-							<div class="col mar-bottom-xs salud">
+							<!--<div class="col mar-bottom-xs salud">
 								<div class="header">
 									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/merakia.jpg"
 											alt="logo" class="img-responsive"></div>
@@ -198,11 +216,11 @@
 								</strong>
 								<span class="sub-title"> Privada Roraima III, interior 101 A, Jardines de Mayakoba, 
 									Ciudad Mayakoba, Playa del Carmen, Q.R.</span>
-								<div class="text-center">
+								<div class="text-center">-->
 									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
-									<time class="time" datetime="2017-02-03 20:00">Válido hasta Febrero de 2025.</time>
+									<!--<time class="time" datetime="2017-02-03 20:00">Válido hasta Febrero de 2025.</time>
 								</div>
-							</div>
+							</div>-->
 
 							<!-- col of the page -->
 							<!--<div class="col mar-bottom-xs hospedaje">
@@ -578,7 +596,7 @@
 
 							<!-- FRUTIYOGURTH -->
 
-							<!-- col of the page -->
+							<!-- col of the page
 							<div class="col mar-bottom-xs restaurantes">
 								<div class="header">
 									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/frutiyogurth.jpg" alt="logo" class="img-responsive"></div>
@@ -588,11 +606,11 @@
 									<stron style="color: #F58323; font-size: 20px;">20%</stron> en colaboradores <br class="hidden-xs">y familiares directos.
 								</strong>
 								<span class="sub-title">Calle 34 Norte esquina con Av. 40 Norte, Col. Infonavit Las Gaviotas.</span>
-								<div class="text-center">
+								<div class="text-center">-->
 							<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
-							<time class="time" datetime="2017-02-03 20:00">Válido hasta agosto de 2022.</time>
+							<!--<time class="time" datetime="2017-02-03 20:00">Válido hasta agosto de 2022.</time>
 								</div>
-							</div>
+							</div>-->
 
 							<!-- IPANEMAS -->
 
