@@ -93,6 +93,27 @@
 						<div class="offer-holder">
 
 
+							<!-- SANI DENTAL -->
+
+							<div class="col mar-bottom-xs restaurantes">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/sanidental.jpg"
+											alt="logo" class="img-responsive"></div>
+									<span class="offer">Precio especial</span>
+								</div>
+								<strong class="heading6">
+									Consultas <stron style="color: #F58323; font-size: 20px;">gratis</stron><br class="hidden-xs">
+									<stron style="color: #F58323; font-size: 20px;">20%</stron> de descuento en todos los procedimientos de sus clínicas con cita previa.<br>
+								</strong>
+								<span class="sub-title">Cita al 984 688 8187 mencionando "Sanipass Río Secreto"</span>
+								<span class="sub-title">Playacar Fase II, av. Paseo Tulum, Plaza Aria, local 104.</span>
+								<div class="text-center">
+									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
+									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2026.</time>
+								</div>
+							</div>
+
+
 							<!-- BOVINOS -->
 
 							<div class="col mar-bottom-xs restaurantes">
@@ -102,9 +123,10 @@
 									<span class="offer">10% Off</span>
 								</div>
 								<strong class="heading6">
-									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en consumo.<br class="hidden-xs">
+									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en consumo Con reserva previa.<br class="hidden-xs">
 								</strong>
-								<span class="sub-title">Av. 10 con calle 12, Playa del Carmen.</span>
+								<span class="sub-title">998 773 8627</span>
+								<span class="sub-title">Válido para sucursales de Playa del Carmen y Cancún</span>
 								<div class="text-center">
 									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
 									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2026.</time>
