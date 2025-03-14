@@ -92,6 +92,22 @@
 						<!-- offer holder of the page -->
 						<div class="offer-holder">
 
+							<!-- FRUTIYOGURTH -->
+
+							<!-- col of the page -->
+							<div class="col mar-bottom-xs restaurantes">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/frutiyogurth.jpg" alt="logo" class="img-responsive"></div>
+									<span class="offer">15% Off</span>
+								</div>
+								<strong class="heading6">
+									<stron style="color: #F58323; font-size: 20px;">15%</stron> para colaboradores <br class="hidden-xs">en consumo con pagos en efectivo.
+								</strong>
+								<span class="sub-title">Calle 34 Norte esquina con Av. 40 Norte, Col. Infonavit Las Gaviotas.</span>
+								<div class="text-center">
+							<time class="time" datetime="2017-02-03 20:00">Válido hasta diciembre de 2025.</time>
+								</div>
+							</div>
 
 							<!-- SANI DENTAL -->
 
@@ -101,12 +117,11 @@
 											alt="logo" class="img-responsive"></div>
 									<span class="offer">Precio especial</span>
 								</div>
-								<strong class="heading6">
-									Consultas <stron style="color: #F58323; font-size: 20px;">gratis</stron><br class="hidden-xs">
-									<stron style="color: #F58323; font-size: 20px;">20%</stron> de descuento en todos los procedimientos de sus clínicas con cita previa.<br>
+								<strong class="heading6 -blur">
+									Consultas <stron style="color: #F58323; font-size: 20px;">gratis</stron> y
+									<stron style="color: #F58323; font-size: 20px;">20%</stron> de descuento en todos sus procedimientos clínicos.<br>
 								</strong>
-								<span class="sub-title">Cita al 984 688 8187 mencionando "Sanipass Río Secreto"</span>
-								<span class="sub-title">Playacar Fase II, av. Paseo Tulum, Plaza Aria, local 104.</span>
+								<span class="sub-title">Realizar cita al 984 688 8187 mencionando "Sanipass Río Secreto"<br>Playacar Fase II, av. Paseo Tulum, Plaza Aria, local 104.</span>
 								<div class="text-center">
 									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
 									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2026.</time>
@@ -123,10 +138,9 @@
 									<span class="offer">10% Off</span>
 								</div>
 								<strong class="heading6">
-									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en consumo Con reserva previa.<br class="hidden-xs">
+									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en consumo con reserva previa.<br class="hidden-xs">
 								</strong>
-								<span class="sub-title">998 773 8627</span>
-								<span class="sub-title">Válido para sucursales de Playa del Carmen y Cancún</span>
+								<span class="sub-title">Reservas al 998 773 8627<br>Válido para sucursales de Playa del Carmen y Cancún</span>
 								<div class="text-center">
 									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
 									<time class="time" datetime="2017-02-03 20:00">Válido hasta febrero de 2026.</time>
@@ -154,7 +168,7 @@
 							<!-- BOSTONS PIZZA -->
 
 							<!-- col of the page -->
-							<div class="col mar-bottom-xs restaurantes">
+							<!-- <div class="col mar-bottom-xs restaurantes">
 								<div class="header">
 									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/bostons.jpg" alt="logo" class="img-responsive"></div>
 									<span class="offer">15% Off</span>
@@ -163,11 +177,11 @@
 									<stron style="color: #F58323; font-size: 20px;">15%</stron> de descuento en el total de la cuenta.<br class="hidden-xs">	
 								</strong>
 								<span class="sub-title">Av. Constituyentes esquina con Av. 115</span>
-								<div class="text-center">
+								<div class="text-center">-->
 							<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
-								<time class="time" datetime="2017-02-03 20:00">Válido hasta Febrero de 2025.</time>
+								<!--<time class="time" datetime="2017-02-03 20:00">Válido hasta Febrero de 2025.</time>
 								</div>
-							</div>
+							</div>-->
 
 							<!-- PRO-VISION -->
 
@@ -315,7 +329,7 @@
 									<span class="offer">15% OFF</span>
 								</div>
 								<strong class="heading6">
-									<stron style="color: #F58323; font-size: 20px;">15%</stron> el total de la cuenta. <br
+									<stron style="color: #F58323; font-size: 20px;">15%</stron> en el total de la cuenta. <br
 										class="hidden-xs">
 									<!--<stron style="color: #F58323; font-size: 20px;">15%</stron> en paquetes
 									preferenciales para celebración de cumpleaños. <br class="hidden-xs">-->
@@ -613,24 +627,6 @@
 								<div class="text-center">-->
 									<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>
 									<time class="time" datetime="2017-02-03 20:00">Válido hasta Diciembre de 2024.</time>
-								</div>
-							</div>-->
-
-							<!-- FRUTIYOGURTH -->
-
-							<!-- col of the page
-							<div class="col mar-bottom-xs restaurantes">
-								<div class="header">
-									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/frutiyogurth.jpg" alt="logo" class="img-responsive"></div>
-									<span class="offer">20% Off</span>
-								</div>
-								<strong class="heading6">
-									<stron style="color: #F58323; font-size: 20px;">20%</stron> en colaboradores <br class="hidden-xs">y familiares directos.
-								</strong>
-								<span class="sub-title">Calle 34 Norte esquina con Av. 40 Norte, Col. Infonavit Las Gaviotas.</span>
-								<div class="text-center">-->
-							<!--<a href="coupon-detail.html" class="btn-primary text-center text-uppercase md-round">view coupon <span class="code">18FX</span></a>-->
-							<!--<time class="time" datetime="2017-02-03 20:00">Válido hasta agosto de 2022.</time>
 								</div>
 							</div>-->
 
