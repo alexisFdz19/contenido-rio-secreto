@@ -111,7 +111,7 @@
 
 							<!-- SANI DENTAL -->
 
-							<div class="col mar-bottom-xs restaurantes">
+							<div class="col mar-bottom-xs salud">
 								<div class="header">
 									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/sanidental.jpg"
 											alt="logo" class="img-responsive"></div>
