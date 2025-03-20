@@ -92,6 +92,23 @@
 						<!-- offer holder of the page -->
 						<div class="offer-holder">
 
+							<!-- ALBANY BEAUTY STUDIO -->
+
+							<!-- col of the page -->
+							<div class="col mar-bottom-xs salud">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/albany.jpg" alt="logo" class="img-responsive"></div>
+									<span class="offer">25% Off</span>
+								</div>
+								<strong class="heading6">
+									<stron style="color: #F58323; font-size: 20px;">25%</stron> de descuento en todo su catálogo de servicios de salón de belleza.
+								</strong>
+								<span class="sub-title">Citas al 984 233 0188<br>Col. Ejidal calle 6 sur entre 115 y 120, Playa del Carmen, Mexico</span>
+								<div class="text-center">
+							<time class="time" datetime="2017-02-03 20:00">Válido hasta diciembre de 2025.</time>
+								</div>
+							</div>
+
 							<!-- FRUTIYOGURTH -->
 
 							<!-- col of the page -->
@@ -156,7 +173,7 @@
 									<span class="offer">10% Off</span>
 								</div>
 								<strong class="heading6">
-									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en bebidas, postres y repostería preparados al momento.<br class="hidden-xs">
+									Descuento del <stron style="color: #F58323; font-size: 20px;">10%</stron> en bebidas de chocolate, café o té y repostería.<br class="hidden-xs">
 								</strong>
 								<span class="sub-title"> Sucursales de Playa del Carmen, Q.Roo.</span>
 								<div class="text-center">
