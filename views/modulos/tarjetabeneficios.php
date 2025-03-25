@@ -92,6 +92,44 @@
 						<!-- offer holder of the page -->
 						<div class="offer-holder">
 
+
+							<!-- PRINCESS YUCATÁN -->
+
+							<!-- col of the page -->
+							<div class="col mar-bottom-xs hospedaje">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/princess.jpg" alt="logo" class="img-responsive"></div>
+									<span class="offer">20% OFF</span>
+								</div>
+								<strong class="heading6">
+									<stron style="color: #F58323; font-size: 20px;">20%</stron> de descuento en daypass y <stron style="color: #F58323; font-size: 20px;">50%</stron> en tratamientos de SPA de 50 minutos.
+								</strong>
+								<span class="sub-title">Necesarios reservar al 984 113 1524<br>
+								Quinta avenida, centro, 77710 Playa del Carmen, Q.Roo.</span>
+								<div class="text-center">
+							<time class="time" datetime="2017-02-03 20:00">Válido hasta Marzo de 2026.</time>
+								</div>
+							</div>
+
+
+							<!-- SUSHI ROLL -->
+
+							<!-- col of the page -->
+							<div class="col mar-bottom-xs restaurantes">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/sushi-roll.jpg" alt="logo" class="img-responsive"></div>
+									<span class="offer">2x1</span>
+								</div>
+								<strong class="heading6">
+									<stron style="color: #F58323; font-size: 20px;">2x1</stron> todos los días exceptuando festivos y días especiales.
+									<p style="font-size:8px">Solo para restaurante, no aplica para llevar. No acumulable con otros descuentos o promociones. 15% de propina en la cuenta final</p>
+								</strong>
+								<span class="sub-title">Quinta avenida, centro, 77710 Playa del Carmen, Q.Roo.</span>
+								<div class="text-center">
+							<time class="time" datetime="2017-02-03 20:00">Válido hasta Marzo de 2026.</time>
+								</div>
+							</div>
+
 							<!-- ALBANY BEAUTY STUDIO -->
 
 							<!-- col of the page -->
