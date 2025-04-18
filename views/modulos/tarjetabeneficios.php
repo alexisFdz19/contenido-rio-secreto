@@ -93,6 +93,26 @@
 						<div class="offer-holder">
 
 
+							<!-- CETEC -->
+
+							<!-- col of the page -->
+							<div class="col mar-bottom-xs salud">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/cetec.jpg" alt="logo" class="img-responsive"></div>
+									<span class="offer">Precio Especial</span>
+								</div>
+								<strong class="heading7">
+									Clases de computo e inglés con colegiatura semanal a mitad de precio</stron> e inscripción de pago único*.<br>
+									45% de descuento para prepa en 2 años y uiversidad en línea**. 
+									<p style="font-size:8px">*No incluye manuales de computo, inglés, exámenes de regularización, extraordinario y trámites de titulación.</p>
+								</strong>
+								<span class="sub-title" style="margin-bottom: 0px">Calle 6, Mz 50 entre av30 y 35. Centro, Playa del Carmen.</span>
+								<div class="text-center">
+							<time class="time" datetime="2017-02-03 20:00">Válido hasta Abril de 2026.</time>
+								</div>
+							</div>
+
+
 							<!-- PRINCESS YUCATÁN -->
 
 							<!-- col of the page -->
@@ -110,7 +130,6 @@
 							<time class="time" datetime="2017-02-03 20:00">Válido hasta Marzo de 2026.</time>
 								</div>
 							</div>
-
 
 							<!-- SUSHI ROLL -->
 
