@@ -92,6 +92,23 @@
 						<!-- offer holder of the page -->
 						<div class="offer-holder">
 
+							<!-- Óptica O&LM -->
+
+							<!-- col of the page -->
+							<div class="col mar-bottom-xs salud">
+								<div class="header">
+									<div class="c-logo"><img loading="lazy" src="<?php echo $url?>views/img/tarjetabeneficios/logos/OLM.jpg" alt="logo" class="img-responsive"></div>
+									<span class="offer">Precio Especial</span>
+								</div>
+								<strong class="heading6">
+									<stron style="color: #F58323; font-size: 20px;">15%</stron> en todos los servicios de la óptica.
+								</strong>
+								<span class="sub-title" style="margin-bottom: 0px">984 177 6838<br>562 086 8654<br>Av. 28 de Julio esquina-115, 77725 Playa del Carmen, Q.R.</span>
+								<div class="text-center">
+							<time class="time" datetime="2017-02-03 20:00">Válido hasta Abril de 2026.</time>
+								</div>
+							</div>
+
 
 							<!-- CETEC -->
 
