@@ -367,7 +367,7 @@
             <img loading="lazy" src="<?php echo $url?>views/img/contenido/Materiales/mockups/mockup-ficha-tirolesas-rio-secreto-plus.jpg" alt="">
             <div class="hover">
                 <a href="#"><h4></h4></a>
-                <a class="light" href="<?php echo $url?>views/img/contenido/Materiales/fichas/ficha-tirolesas-rio-secreto-plus-espanol.jpg"><i class="fas fa-expand"><br><br><h4>Zip Lines characteristics</h4></i></a>
+                <a class="light" href="<?php echo $url?>views/img/contenido/Materiales/fichas/ficha-tirolesas-rio-secreto-plus-ingles.jpg"><i class="fas fa-expand"><br><br><h4>Zip Lines characteristics</h4></i></a>
             </div>
             </div>
         </div>
